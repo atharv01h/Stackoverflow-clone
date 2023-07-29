@@ -1,28 +1,31 @@
-# Foobar
+# Stack OverFlow Clone
 
-Foobar is a Python library for dealing with word pluralization.
+This website is a question forum and made to look like Stack Overflow.
+
+The Code of this Project is Completely Writtenby Atharv Hatwar
+
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Fork and clone the repo and follow the below steps:
 
-```bash
-pip install foobar
+Install Node.js
+Open client and server directories in VS code
+Install Dependencies using the command
+
+```Start
+npm start
+
 ```
 
 # Usage
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+``React js
+Node js
+Express js
+MongoDb
+Redux
+Json web token 
 ```
 
 ## Contributing
