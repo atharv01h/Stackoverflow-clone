@@ -2,7 +2,7 @@
 
 This website is a question forum and made to look like Stack Overflow.
 
-The Code of this Project is Completely Writtenby Atharv Hatwar
+The Code of this Project is Completely Written by Atharv Hatwar
 
 
 ## Installation
