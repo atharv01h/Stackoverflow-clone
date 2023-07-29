@@ -20,13 +20,13 @@ npm start
 
 # Usage
 
-``React js
+*React js
 Node js
 Express js
 MongoDb
 Redux
-Json web token 
-```
+Json web token*
+
 
 
 
