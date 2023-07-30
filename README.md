@@ -14,6 +14,7 @@ Open client and server directories in VS code
 Install Dependencies using the command
 
 ```Start
+cd client
 npm start
 
 ```
